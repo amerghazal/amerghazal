@@ -1,6 +1,6 @@
 [submodule "public"]
 	path = public
-	url = git@github.com:amerghazal/amerghazal.github.io.git
+	url = ssh://amerghazal@github.com/amerghazal.github.io.git
 	branch = master
 [submodule "themes/whiteplain"]
 	path = themes/whiteplain
