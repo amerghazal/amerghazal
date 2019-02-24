@@ -18,7 +18,7 @@ fi
 git commit -m "$msg"
 
 # Push source and build repos.
-git push --recurse-submodules=on-demand
+git push origin master
 
 # Come Back up to the Project Root
 cd ..
